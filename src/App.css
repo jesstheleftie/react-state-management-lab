@@ -7,3 +7,8 @@ li {
   list-style: none;
   margin: 10px;
 }
+
+body {
+  background-color: black;
+  color: white;
+}
